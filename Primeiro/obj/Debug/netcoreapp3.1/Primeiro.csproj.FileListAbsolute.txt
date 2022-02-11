@@ -1,0 +1,13 @@
+/Users/ludimagal/Projects/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.deps.json
+/Users/ludimagal/Projects/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.runtimeconfig.json
+/Users/ludimagal/Projects/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.runtimeconfig.dev.json
+/Users/ludimagal/Projects/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.dll
+/Users/ludimagal/Projects/Primeiro/Primeiro/bin/Debug/netcoreapp3.1/Primeiro.pdb
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.csproj.AssemblyReference.cache
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.AssemblyInfoInputs.cache
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.AssemblyInfo.cs
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.csproj.CoreCompileInputs.cache
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.dll
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.pdb
+/Users/ludimagal/Projects/Primeiro/Primeiro/obj/Debug/netcoreapp3.1/Primeiro.genruntimeconfig.cache
